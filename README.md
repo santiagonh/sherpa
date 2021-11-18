@@ -1,0 +1,1 @@
+Sherpa te acompaña y guía en la creación de tus mejores mixes. A partir de una playlist de spotify Sherpa te enseña gráficamente secuencias de canciones para irlas mezclando y así crear mixes emocionantes y bailables. Sherpa te ayuda a trazar puentes y a organizar tu música para que sea más fácil y divertido mezclarla.
