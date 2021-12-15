@@ -1,101 +1,119 @@
-,track_id,artist,track,tempo,energy,danceability,valence,key,time_signature,acousticness,instrumentalness,mode
-0,4bP5n83Cx3Ek2JspqI3qXR,Aphex Twin,diskhat ALL prepared1mixed 13,110.01,0.539,0.852,0.34,3,4,0.518,0.865,1
-1,0WTr0gFrQhKKAlxcaWTeRe,Gabriel Prokofiev,Voyage V: Fanta®,125.899,0.35,0.742,0.228,0,4,0.38,0.736,0
-2,5f8jfumCm1ESZnoDvoGqlA,Jaubi,Lahore State of Mind - Remix,91.047,0.55,0.707,0.334,6,4,0.111,0.825,1
-3,1LWDM0ldyMWfUe9jSmeuAm,Don Cherry,Benoego,88.025,0.567,0.648,0.835,7,4,0.194,0.663,1
-4,29AYtOXVZscO66KeeGkjK0,James Holden,Pass Through The Fire / Bouri Bouri Manandabo,101.17,0.625,0.473,0.925,8,4,0.0704,0.908,1
-5,4T81TIkBZLKJ79J21AmPjc,Four Tet,Love Cry - Roska Remix,127.971,0.512,0.806,0.544,10,4,0.000325,0.915,0
-6,63uCNtUdYseFoFGQCRDL6C,Vimala,Teenagers - Jaune Remix,94.989,0.948,0.541,0.381,7,4,0.331,0.84,1
-7,3D3LQKoshEUNMAy8AHZQlo,Neil Cowley Trio,Weightless - Rival Consoles Remix,124.976,0.77,0.556,0.101,7,4,0.00564,0.902,1
-8,4EoaVFozPxrdWm6obLbSAf,DJ Khalab,Kumu - Harmonius Thelonius Remix,129.987,0.552,0.726,0.074,7,4,0.135,0.592,1
-9,28LdYax9U21TgvgabpD5xd,Gebrüder Teichmann,Transist - feat. Wura Samba,130.022,0.441,0.779,0.54,5,4,0.0253,0.144,0
-10,30sg5TXrB6tgCdvzpvhRg1,Floating Points,Nuits Sonores,122.978,0.644,0.712,0.388,10,4,0.763,0.878,0
-11,3wV3osE8q10ysPsOO5HH3y,Colin Stetson,Like wolves on the fold,68.669,0.57,0.425,0.719,6,4,0.872,0.899,1
-12,7KZ5juu5IXl3HgEMrRFQPr,Lindstrøm,Bungl (Like a Ghost),119.96,0.708,0.733,0.231,2,4,0.0886,0.381,1
-13,7MeG7iJpL1bZ6YaqoQNrB8,DjRUM,St Martins,139.943,0.187,0.409,0.21,0,4,0.701,0.881,0
-14,6zS1OeHHZ0aRMU0ZqIgjgH,Kiasmos,Paused - Stimming Remix,123.993,0.645,0.644,0.296,2,4,0.0571,0.835,1
-15,7edXzWL0NdmKOpGe6NKHyO,Jesper Ryom,Pacer,124.006,0.689,0.655,0.154,8,4,0.00423,0.894,1
-16,4JFjJqCYitt1NGcpXZ6xsR,Jesper Ryom,End Title - Art of Tones Remix,120.016,0.908,0.722,0.408,10,4,0.00678,0.802,0
-17,309lSRLLvKvzmluaq0kCNn,Nine Inch Nails,07 Ghosts I,196.017,0.838,0.696,0.486,1,4,0.0727,0.889,1
-18,0LcwWH88kYzurOAJpjHeIR,Joseph Shabason,Deep Dark Divide,205.961,0.392,0.399,0.713,7,3,0.95,0.147,0
-19,3wJo9WQKH2UrJb8kge7gbd,Planet Battagon,Inside Out - Canblaster Remix,124.011,0.734,0.834,0.206,11,4,0.0291,0.759,0
-20,7rCNFbBjRhFedDMagiH32L,Teto Preto,Gasolina,120.008,0.6,0.726,0.419,6,4,0.0287,0.488,0
-21,4z2jqK5ulkmyz4znKnu3FH,Exz,Choque,111.01,0.509,0.787,0.175,10,3,0.0485,0.904,0
-22,1X9TmaFt15Yg9V34rvjbhX,Jon Hassell,Blues Nile,73.07,0.067,0.0649,0.0306,7,3,0.988,0.879,0
-23,4ikdqHQo0NV14YPBr5HzkG,Argile,Tagtraum Eines Elefanten,103.675,0.368,0.697,0.6,8,4,0.929,0.86,1
-24,0HdHd5mJlqFqv8PqAGDsEw,Quantic,Cumbia Sobre el Mar - El Búho Remix,159.919,0.731,0.651,0.692,3,4,0.187,0.138,0
-25,4oXFbqXSJoYLOkk8OafVrs,Chancha Via Circuito,Sueño en Paraguay - El Búho Remix,90.795,0.804,0.658,0.502,8,4,0.254,0.854,0
-26,6EWuxuHYapTWZR3RszEvYt,Canalón de Timbiquí,Camino Largo - El Búho Remix,110.006,0.821,0.721,0.729,10,4,0.287,1.14e-05,1
-27,4DtsDwntk2Z673CUAw2RwA,The Prodigy,Light Up the Sky - Special Request Remix / Edit,129.991,0.506,0.701,0.225,5,4,0.0142,0.876,0
-28,2BNsETtgPQ0a2aXn92bbIn,Al Dobson Jr.,Who U Think U Are,87.948,0.984,0.903,0.648,9,4,0.189,0.254,1
-29,4AjlFUouEm7IHUvNRpRwXH,Nils Frahm,Spells,148.499,0.676,0.46,0.444,7,3,0.901,0.933,0
-30,4ih64AGT0KhTb5wlxw96wM,S. Moreira,Through The Rings Of Saturn - Original Mix,123.998,0.905,0.797,0.115,1,4,0.000356,0.902,1
-31,0krYp801Y2D82cOMaHFSyW,S. Moreira,Orbiting Around - Original Mix,149.981,0.895,0.451,0.795,1,5,0.000758,0.894,1
-32,4AZXjqomBv5OmY7p1kvxat,The Mauskovic Dance Band,The Opposite,139.905,0.762,0.689,0.897,0,4,0.107,0.759,1
-33,0Z2Cjzn4pBrcwkBNhA7dwX,Auntie Flo,Nobody Said It Would Be Easy,117.018,0.494,0.846,0.221,0,4,0.0183,0.902,1
-34,4kLyPZvYQE2N1K2rFQ3e6a,Max Cooper,Waves,111.02,0.683,0.663,0.163,1,4,0.349,0.848,1
-35,0rEgLTd4Tq4XIdVLTseW1x,Mr. Ho,Veils Of The Beloved - Original Mix,110.003,0.635,0.78,0.719,10,4,0.00188,0.612,0
-36,7wSDRCBCeVFbz6uLsi9qL6,Oliver Deutschmann,Control - Mixed,123.776,0.575,0.709,0.0746,10,4,0.023,0.882,0
-37,6pS7oBxjRqYsMD9q6SKs2O,Lemmon,Panvogel,115.014,0.593,0.761,0.0829,1,4,0.0103,0.823,0
-38,0vIoo81fJTJB3j8i4fUtBo,Placid Angles,Scarlett Season,97.064,0.51,0.402,0.0447,1,3,0.231,0.811,0
-39,4BLJRlMD5Ra7HQJ4fHjs6c,Mikron,Ghost Node,122.013,0.889,0.726,0.0997,2,4,0.196,0.859,1
-40,5T5YrHrReAewSmP95yBFyw,Holy Other,Held,90.005,0.565,0.25,0.0377,11,4,0.475,0.678,0
-41,3uNxAnCEZ12rSH953QguLy,Holy Other,Know Where,85.035,0.394,0.576,0.186,4,4,0.792,0.754,0
-42,1eQb8HifNj4vxKc02UirA5,Nils Frahm,All Melody,202.003,0.617,0.686,0.735,10,3,0.867,0.945,0
-43,6hOI48HzMpRvS1woOc1pSf,Chihei Hatakeyama,door to the cosmos,133.124,0.0147,0.165,0.0336,5,4,0.995,0.977,1
-44,5i1a9AcwW8VU0O1RlZfQAB,Mikron,Locus Reave,114.012,0.722,0.442,0.203,9,4,0.604,0.942,1
-45,5WGLYVVfEk0aIwaSnGberK,Mikron,Detour,123.951,0.625,0.815,0.0985,4,4,0.402,0.892,1
-46,3iSU6NKEE5yyfnDC4sKobs,Sasha,Vapour Trails - Kiasmos Remix,122.015,0.556,0.765,0.13,4,4,0.00689,0.943,0
-47,6HPGiQnD7BGv5lZctQs7vi,Talaboman,Dins El Llit - Superpitcher Remix,118.01,0.66,0.666,0.0397,4,4,0.0515,0.868,0
-48,5Gk4hJlJ6kQQaaCqqjuxUv,Talaboman,Six Million Ways,104.01,0.982,0.708,0.0385,7,4,0.217,0.877,0
-49,4ZZSByixQZeFFUfmrm97S9,Marsmobil,It Doesn't Matter How You Are - Ripperton Instrumental,121.107,0.738,0.806,0.79,1,4,0.312,0.923,1
-50,5gKA0ljFirc1skazUwnjFk,Ron Deacon,Bring It On,120.047,0.407,0.719,0.143,1,4,0.28,0.902,1
-51,0cK5c98oPPZTX1IYn4Hb0i,A Forest Mighty Black,Fresh In My Mind - I:Cube Remix,111.99,0.831,0.593,0.509,6,4,0.034,0.92,1
-52,02jrjW6mqelPQ1ov5dIShv,Ah! Kosmos,Woods,121.999,0.821,0.805,0.671,6,4,0.224,0.774,0
-53,1mcr1IckvAx3p2Caq9jzqg,Mr Raoul K,Tamale,118.003,0.722,0.805,0.257,7,4,0.0472,0.548,1
-54,4r8THKAeGSEsAFEfedz7rF,Mr Raoul K,Sene Kela - Mr Raoul K & Laolu Version,118.001,0.625,0.727,0.406,5,4,0.18,0.411,0
-55,569gNjph2g07MmjtMm6vKm,Gidge,Huldra - Other Version,118.015,0.514,0.772,0.103,10,4,0.148,0.906,0
-56,42na0NchVKUAXqgzwOcZfd,Kiasmos,Zebra,119.915,0.668,0.676,0.0949,7,4,0.32,0.303,1
-57,4lpKq8RZOH2DLOGDF3uAYd,Cass.,The Diary,110.014,0.18,0.521,0.182,10,4,0.989,0.906,0
-58,5Q9y1QLFf5peodTqeQ8Evg,Ametsub,From The Mountain (based on metal beast / l’usine rmx - Upcgriqr),124.018,0.69,0.63,0.552,10,4,0.189,0.899,1
-59,2k5m0nlu8TAY2mGLOcqImO,Grand River,When It All Was Flourishing,123.892,0.234,0.35,0.0376,6,4,0.913,0.918,1
-60,3scH3LfC2eyoX4zd5sp759,TSHA,Sacred,123.018,0.629,0.792,0.417,0,4,0.00613,0.847,1
-61,56v6HRVLPEy380Om6OwgxQ,Rone,Mirapolis - Laurent Garnier Remix,124.006,0.673,0.575,0.48,8,3,0.126,0.893,1
-62,4JY4ziWfBka6mHjTsJCLTn,Kae Tempest,Perfect Coffee,92.996,0.532,0.824,0.54,7,4,0.455,0.058,1
-63,155prHK1sRHKO9aJiO8RFV,Throwing Snow,Subtitles,124.999,0.801,0.596,0.112,1,4,0.00624,0.825,1
-64,5q9oDBF0ElKsJsSrs3Z5kd,ELIZA,All Night,92.022,0.163,0.866,0.577,8,4,0.0359,0.793,0
-65,6Af8C264b3XWFDzV5xknsg,Andi Otto,Taste of Bamboo,178.338,0.717,0.685,0.486,4,4,0.149,0.783,0
-66,5OtZ6fidRTpFZu0IzI0RVw,Peter Power,Dansakoni,102.006,0.536,0.824,0.533,8,4,0.186,0.00282,1
-67,3kfd2K9w54Rqwkr6uFhr6Z,Viken Arman,Rosas - Nu Remix,94.009,0.421,0.781,0.159,4,4,0.0495,0.621,0
-68,3ZJk5ofeUZIAoEeqncIQfl,JAJA,Elega al Che,93.99,0.279,0.784,0.461,1,4,0.848,0.923,0
-69,2lndMeBFLAfg6cn0etfMjx,Arutani,Trance is Psy,100.02,0.493,0.67,0.0781,0,4,0.0191,0.815,0
-70,4CJtnJh0NhpDyBpCvh0Mff,Shkoon,Napauken Feat. Fruiterama,105.003,0.656,0.528,0.0962,2,4,0.463,0.905,1
-71,0FvMyDF1hBIHqPGEw7CnsO,Andi Otto,Bangalore Whispers,95.017,0.595,0.833,0.343,0,4,0.528,0.0238,1
-72,2l2kCTP91BS8GxBUEJ5q91,Rapossa,Shanti,100.995,0.486,0.752,0.434,9,4,0.00582,0.826,1
-73,4uwwu8ThxoNtYPyAQwEWjP,Jugurtha,Serail - MiRET Remix,89.989,0.497,0.721,0.357,11,4,0.0169,0.873,1
-74,45u2Q9YkyETvKnzLu0B3iV,Lemurian,Onpash,196.001,0.563,0.571,0.488,10,4,0.611,0.722,0
-75,3LKtxVRgemcqhluCK4l4a8,Oumou Sangaré,Kamelemba - Pouvoir Magique Remix,102.035,0.612,0.786,0.682,7,4,0.039,0.123,1
-76,2TztFc1warEs7GdZQ4qBON,Oumou Sangaré,Fadjamou - St Germain Remix,125.986,0.795,0.756,0.724,6,4,0.0352,0.00277,1
-77,5GA2HHl00A6ASpXpW3Kxdv,Zara McFarlane,East of the River Nile (Alt. Take) - Dub Mix,105.713,0.646,0.748,0.783,4,4,0.105,0.894,0
-78,72QecT0l6EbGdAf7FRiiI7,M.RUX,Tangled Eye - Ninze Remix,98.008,0.591,0.822,0.578,10,4,0.478,0.848,0
-79,7sWuEcZgE4RUK3yNfHl8LL,El Búho,Aguas Claras,97.006,0.489,0.785,0.834,1,4,0.6,0.883,0
-80,7DeYN8jLlNx8njQTyHUzyp,History of Colour,Cinder,99.997,0.535,0.863,0.339,7,4,0.393,0.832,0
-81,41JWvOS6vhn2uANnUsKVEG,Oceanvs Orientalis,Tarlabasi - Be Svendsen Remix,114.001,0.599,0.854,0.216,4,4,0.206,0.861,0
-82,3vc7vVDMQtcQ2bFMURz7pp,Jacob Groening,Kopru Ortas,89.976,0.427,0.697,0.168,10,4,0.0827,0.0032,1
-83,3o8EW5nZYcna5KGHNMSx68,Kleintierschaukel,Motomia,109.976,0.432,0.979,0.455,5,4,0.305,0.9,0
-84,10glJ8ARN1G9ESFF9s00yk,Xique-Xique,1542,100.002,0.704,0.775,0.471,11,4,0.46,0.559,0
-85,2cRWl6JnwCISmu8PrClxdX,Kerala Dust,Wires,118.004,0.414,0.806,0.572,8,4,0.00105,0.886,0
-86,49ZT5B5j9NhgYOyoYJgd2d,Kleintierschaukel,Motomia - Valentin Stip Remix,220.034,0.411,0.651,0.274,10,4,0.217,0.918,0
-87,419NLe5qLMKozi8e3jYGxN,Exz,Azerodois,100.011,0.606,0.836,0.0636,7,4,0.0645,0.86,1
-88,11u1VAhu9I6jgt9pItgAkl,Exz,Vulto,110.987,0.407,0.722,0.0376,4,4,0.395,0.888,0
-89,1Yu5Zn57CiJ7hUDNVGmjhf,Steve Hauschildt,Alienself,103.986,0.464,0.457,0.11,7,4,0.706,0.956,1
-90,0EV7lkaGPP5G93JiHHgyyZ,Nu Genea,Prelude,104.999,0.554,0.761,0.979,1,4,0.589,0.818,1
-91,7Bzyr2VDVOAIU4o0KpSWnp,Objekt,Theme from Q,123.01,0.795,0.8,0.599,10,4,0.00388,0.713,0
-92,3oagsScdGADvNXlyUee5m0,Agnes Obel,Stretch Your Eyes - Ambient Acapella,49.917,0.0312,0.121,0.0381,8,4,0.582,0.033,0
-93,4JLHvLj1cHJpopm40v32lY,Landhouse,Robots,108.017,0.256,0.795,0.336,9,4,0.553,0.914,0
-94,2IJBy4H2j9LcvwIUQb3RKX,NINZE & OKAXY,Melatonin,108.002,0.216,0.876,0.177,6,4,0.65,0.935,0
-95,1t8DAe37WZUVT4UppCAeZm,Kerala Dust,Spiegel,114.989,0.675,0.8,0.577,1,4,0.0521,0.895,1
-96,2YJ5LBrsDGXza8Gak2KBKQ,Landhouse,Back From the Black Forest,100.031,0.53,0.807,0.666,1,4,0.216,0.881,1
-97,1kETMAlYAqu5nNr1c8ld4n,Forest Swords,Panic,130.016,0.428,0.489,0.0526,1,4,0.478,0.767,1
-98,57p1UwuJ19XMaC7gF9B52h,Mount Kimbie,Blind Night Errand,134.018,0.479,0.782,0.315,8,4,0.0202,0.868,0
-99,3d5y51BomOkO2JP6eQbCAO,Shigeto,Detroit Part II,114.007,0.412,0.875,0.272,1,4,0.13,0.833,1
+,track_id,artist,track,album,duration,tempo,energy,danceability,valence,key,time_signature,acousticness,instrumentalness,mode,styles
+0,4bP5n83Cx3Ek2JspqI3qXR,Aphex Twin,diskhat ALL prepared1mixed 13,Computer Controlled Acoustic Instruments pt2 EP,5.366983333333334,110.01,0.539,0.852,0.34,D#,4,0.518,0.865,1,"['IDM', 'Experimental']"
+1,0WTr0gFrQhKKAlxcaWTeRe,Gabriel Prokofiev,Voyage V: Fanta®,Import / Export - G. Prokofiev Suite for Global Junk,7.629766666666667,125.899,0.35,0.742,0.228,C,4,0.38,0.736,0,"['Modern', 'Musique Concrète', 'Minimal', 'IDM']"
+2,5f8jfumCm1ESZnoDvoGqlA,Jaubi,Lahore State of Mind - Remix,Lahore State of Mind,3.22495,91.047,0.55,0.707,0.334,F#,4,0.111,0.825,1,['Hindustani']
+3,1LWDM0ldyMWfUe9jSmeuAm,Don Cherry,Benoego,"Home Boy, Sister Out",3.816,88.025,0.567,0.648,0.835,G,4,0.194,0.663,1,"['Fusion', 'Afrobeat']"
+4,29AYtOXVZscO66KeeGkjK0,James Holden,Pass Through The Fire / Bouri Bouri Manandabo,Three Live Takes,5.581833333333333,101.17,0.625,0.473,0.925,G#,4,0.0704,0.908,1,"['African', 'Experimental']"
+5,4T81TIkBZLKJ79J21AmPjc,Four Tet,Love Cry - Roska Remix,There Is Love in You (Expanded Edition),6.17185,127.971,0.512,0.806,0.544,A#,4,0.000325,0.915,0,"['House', 'Techno', 'IDM', 'Experimental']"
+6,63uCNtUdYseFoFGQCRDL6C,Vimala,Teenagers - Jaune Remix,First EP,4.14735,94.989,0.948,0.541,0.381,G,4,0.331,0.84,1,"['House', 'Deep House', 'Disco']"
+7,3D3LQKoshEUNMAy8AHZQlo,Neil Cowley Trio,Weightless - Rival Consoles Remix,Spacebound Tapes,6.205866666666667,124.976,0.77,0.556,0.101,G,4,0.00564,0.902,1,"['Deep House', 'Techno']"
+8,4EoaVFozPxrdWm6obLbSAf,DJ Khalab,Kumu - Harmonius Thelonius Remix,Kumu / Tata,7.326383333333333,129.987,0.552,0.726,0.074,G,4,0.135,0.592,1,"['Minimal', 'Deep House', 'African', 'Experimental']"
+9,28LdYax9U21TgvgabpD5xd,Gebrüder Teichmann,Transist - feat. Wura Samba,Lost On Earth,6.789916666666667,130.022,0.441,0.779,0.54,F,4,0.0253,0.144,0,['Rockabilly']
+10,30sg5TXrB6tgCdvzpvhRg1,Floating Points,Nuits Sonores,Nuits Sonores / Nectarines,11.93105,122.978,0.644,0.712,0.388,A#,4,0.763,0.878,0,['Deep House']
+11,3wV3osE8q10ysPsOO5HH3y,Colin Stetson,Like wolves on the fold,All This I Do For Glory,7.607766666666667,68.669,0.57,0.425,0.719,F#,4,0.872,0.899,1,"['Modern', 'Avantgarde', 'Experimental']"
+12,7KZ5juu5IXl3HgEMrRFQPr,Lindstrøm,Bungl (Like a Ghost),It's Alright Between Us as It Is,7.010883333333333,119.96,0.708,0.733,0.231,D,4,0.0886,0.381,1,['Nu-Disco']
+13,7MeG7iJpL1bZ6YaqoQNrB8,DjRUM,St Martins,View from the Edge,9.690666666666667,139.943,0.187,0.409,0.21,C,4,0.701,0.881,0,['Techno']
+14,6zS1OeHHZ0aRMU0ZqIgjgH,Kiasmos,Paused - Stimming Remix,Blurred,7.186883333333333,123.993,0.645,0.644,0.296,D,4,0.0571,0.835,1,['House']
+15,7edXzWL0NdmKOpGe6NKHyO,Jesper Ryom,Pacer,Pacer,7.65135,124.006,0.689,0.655,0.154,G#,4,0.00423,0.894,1,['Indie Rock']
+16,4JFjJqCYitt1NGcpXZ6xsR,Jesper Ryom,End Title - Art of Tones Remix,Deep Blues,8.753333333333334,120.016,0.908,0.722,0.408,A#,4,0.00678,0.802,0,['Deep House']
+17,309lSRLLvKvzmluaq0kCNn,Nine Inch Nails,07 Ghosts I,Ghosts I-IV,2.0101333333333335,196.017,0.838,0.696,0.486,C#,4,0.0727,0.889,1,"['Art Rock', 'Ambient', 'Experimental']"
+18,0LcwWH88kYzurOAJpjHeIR,Joseph Shabason,Deep Dark Divide,Anne,7.006,205.961,0.392,0.399,0.713,G,3,0.95,0.147,0,
+19,3wJo9WQKH2UrJb8kge7gbd,Planet Battagon,Inside Out - Canblaster Remix,Inside Out,5.647183333333333,124.011,0.734,0.834,0.206,B,4,0.0291,0.759,0,
+20,7rCNFbBjRhFedDMagiH32L,Teto Preto,Gasolina,Gasolina,7.766666666666667,120.008,0.6,0.726,0.419,F#,4,0.0287,0.488,0,['Reggaeton']
+21,4z2jqK5ulkmyz4znKnu3FH,Exz,Choque,Serra,6.026,111.01,0.509,0.787,0.175,A#,3,0.0485,0.904,0,
+22,1X9TmaFt15Yg9V34rvjbhX,Jon Hassell,Blues Nile,Vernal Equinox,9.993333333333334,73.07,0.067,0.0649,0.0306,G,3,0.988,0.879,0,"['Experimental', 'Ambient']"
+23,4ikdqHQo0NV14YPBr5HzkG,Argile,Tagtraum Eines Elefanten,Tropical Drums of Deutschland,4.4796,103.675,0.368,0.697,0.6,G#,4,0.929,0.86,1,['Leftfield']
+24,0HdHd5mJlqFqv8PqAGDsEw,Quantic,Cumbia Sobre el Mar - El Búho Remix,Tributaries: A Remix Album (El Búho Remixes),5.215233333333333,159.919,0.731,0.651,0.692,D#,4,0.187,0.138,0,Not data
+25,0HdHd5mJlqFqv8PqAGDsEw,Quantic,Cumbia Sobre el Mar - El Búho Remix,Tributaries: A Remix Album (El Búho Remixes),5.215233333333333,159.919,0.731,0.651,0.692,D#,4,0.187,0.138,0,Not data
+26,0HdHd5mJlqFqv8PqAGDsEw,Quantic,Cumbia Sobre el Mar - El Búho Remix,Tributaries: A Remix Album (El Búho Remixes),5.215233333333333,159.919,0.731,0.651,0.692,D#,4,0.187,0.138,0,Not data
+27,4oXFbqXSJoYLOkk8OafVrs,Chancha Via Circuito,Sueño en Paraguay - El Búho Remix,Tributaries: A Remix Album (El Búho Remixes),4.0223,90.795,0.804,0.658,0.502,G#,4,0.254,0.854,0,Not data
+28,4oXFbqXSJoYLOkk8OafVrs,Chancha Via Circuito,Sueño en Paraguay - El Búho Remix,Tributaries: A Remix Album (El Búho Remixes),4.0223,90.795,0.804,0.658,0.502,G#,4,0.254,0.854,0,Not data
+29,4oXFbqXSJoYLOkk8OafVrs,Chancha Via Circuito,Sueño en Paraguay - El Búho Remix,Tributaries: A Remix Album (El Búho Remixes),4.0223,90.795,0.804,0.658,0.502,G#,4,0.254,0.854,0,Not data
+30,6EWuxuHYapTWZR3RszEvYt,Canalón de Timbiquí,Camino Largo - El Búho Remix,Tributaries: A Remix Album (El Búho Remixes),5.9909,110.006,0.821,0.721,0.729,A#,4,0.287,1.14e-05,1,Not data
+31,6EWuxuHYapTWZR3RszEvYt,Canalón de Timbiquí,Camino Largo - El Búho Remix,Tributaries: A Remix Album (El Búho Remixes),5.9909,110.006,0.821,0.721,0.729,A#,4,0.287,1.14e-05,1,Not data
+32,6EWuxuHYapTWZR3RszEvYt,Canalón de Timbiquí,Camino Largo - El Búho Remix,Tributaries: A Remix Album (El Búho Remixes),5.9909,110.006,0.821,0.721,0.729,A#,4,0.287,1.14e-05,1,Not data
+33,4DtsDwntk2Z673CUAw2RwA,The Prodigy,Light Up the Sky - Special Request Remix / Edit,Light Up the Sky (Special Request Remix),3.4833333333333334,129.991,0.506,0.701,0.225,F,4,0.0142,0.876,0,['House']
+34,2BNsETtgPQ0a2aXn92bbIn,Al Dobson Jr.,Who U Think U Are,"Kutmah presents: Sketchbook Radio Archives, Vol. 1",2.0797666666666665,87.948,0.984,0.903,0.648,A,4,0.189,0.254,1,Not data
+35,4AjlFUouEm7IHUvNRpRwXH,Nils Frahm,Spells,Spells,12.578666666666667,148.499,0.676,0.46,0.444,G,3,0.901,0.933,0,
+36,4ih64AGT0KhTb5wlxw96wM,S. Moreira,Through The Rings Of Saturn - Original Mix,Through The Rings Of Saturn EP,6.820583333333333,123.998,0.905,0.797,0.115,C#,4,0.000356,0.902,1,"['Techno', 'Dub Techno', 'House']"
+37,4ih64AGT0KhTb5wlxw96wM,S. Moreira,Through The Rings Of Saturn - Original Mix,Through The Rings Of Saturn EP,6.820583333333333,123.998,0.905,0.797,0.115,C#,4,0.000356,0.902,1,"['Techno', 'Dub Techno', 'House']"
+38,0krYp801Y2D82cOMaHFSyW,S. Moreira,Orbiting Around - Original Mix,Through The Rings Of Saturn EP,6.9016166666666665,149.981,0.895,0.451,0.795,C#,5,0.000758,0.894,1,"['Techno', 'Dub Techno', 'House']"
+39,0krYp801Y2D82cOMaHFSyW,S. Moreira,Orbiting Around - Original Mix,Through The Rings Of Saturn EP,6.9016166666666665,149.981,0.895,0.451,0.795,C#,5,0.000758,0.894,1,"['Techno', 'Dub Techno', 'House']"
+40,4AZXjqomBv5OmY7p1kvxat,The Mauskovic Dance Band,The Opposite,Down in the Basement - EP,3.214733333333333,139.905,0.762,0.689,0.897,C,4,0.107,0.759,1,"['Cumbia', 'Disco', 'Psychedelic', 'Soukous']"
+41,0Z2Cjzn4pBrcwkBNhA7dwX,Auntie Flo,Nobody Said It Would Be Easy,Radio Highlife,5.009333333333333,117.018,0.494,0.846,0.221,C,4,0.0183,0.902,1,"['House', 'Highlife']"
+42,4kLyPZvYQE2N1K2rFQ3e6a,Max Cooper,Waves,Emergence,5.516666666666667,111.02,0.683,0.663,0.163,C#,4,0.349,0.848,1,
+43,0rEgLTd4Tq4XIdVLTseW1x,Mr. Ho,Veils Of The Beloved - Original Mix,Collision Resistance b/w Veils Of The Beloved,7.854533333333333,110.003,0.635,0.78,0.719,A#,4,0.00188,0.612,0,Not data
+44,7wSDRCBCeVFbz6uLsi9qL6,Oliver Deutschmann,Control - Mixed,Global Underground: Nubreed 10 (Mixed),5.432216666666666,123.776,0.575,0.709,0.0746,A#,4,0.023,0.882,0,"['Progressive House', 'Techno', 'Progressive Trance']"
+45,6pS7oBxjRqYsMD9q6SKs2O,Lemmon,Panvogel,Global Underground: Nubreed 10 - Oliver Schories/Unmixed,7.242483333333333,115.014,0.593,0.761,0.0829,C#,4,0.0103,0.823,0,Not data
+46,0vIoo81fJTJB3j8i4fUtBo,Placid Angles,Scarlett Season,The Cry,7.419333333333333,97.064,0.51,0.402,0.0447,C#,3,0.231,0.811,0,
+47,4BLJRlMD5Ra7HQJ4fHjs6c,Mikron,Ghost Node,Severance,6.7131,122.013,0.889,0.726,0.0997,D,4,0.196,0.859,1,
+48,5T5YrHrReAewSmP95yBFyw,Holy Other,Held,Held,6.125233333333333,90.005,0.565,0.25,0.0377,B,4,0.475,0.678,0,
+49,3uNxAnCEZ12rSH953QguLy,Holy Other,Know Where,With U,3.4725333333333332,85.035,0.394,0.576,0.186,E,4,0.792,0.754,0,"['Leftfield', 'Downtempo', 'Witch House', 'Dubstep']"
+50,1eQb8HifNj4vxKc02UirA5,Nils Frahm,All Melody,All Melody,9.511533333333333,202.003,0.617,0.686,0.735,A#,3,0.867,0.945,0,"['Modern Classical', 'Abstract']"
+51,6hOI48HzMpRvS1woOc1pSf,Chihei Hatakeyama,door to the cosmos,Void XIV,6.249183333333334,133.124,0.0147,0.165,0.0336,F,4,0.995,0.977,1,"['Ambient', 'Drone']"
+52,5i1a9AcwW8VU0O1RlZfQAB,Mikron,Locus Reave,Severance,6.9473666666666665,114.012,0.722,0.442,0.203,A,4,0.604,0.942,1,
+53,5WGLYVVfEk0aIwaSnGberK,Mikron,Detour,Zone 16: No Correlation - EP,6.134266666666667,123.951,0.625,0.815,0.0985,E,4,0.402,0.892,1,"['Techno', 'Electro']"
+54,3iSU6NKEE5yyfnDC4sKobs,Sasha,Vapour Trails - Kiasmos Remix,Scene Delete: The Remixes,6.241316666666667,122.015,0.556,0.765,0.13,E,4,0.00689,0.943,0,"['Downtempo', 'Experimental', 'IDM', 'Techno', 'Tech House', 'Deep House']"
+55,6HPGiQnD7BGv5lZctQs7vi,Talaboman,Dins El Llit - Superpitcher Remix,The Night Land Remixed,11.1077,118.01,0.66,0.666,0.0397,E,4,0.0515,0.868,0,"['House', 'Techno', 'Minimal']"
+56,5Gk4hJlJ6kQQaaCqqjuxUv,Talaboman,Six Million Ways,The Night Land,6.395183333333334,104.01,0.982,0.708,0.0385,G,4,0.217,0.877,0,"['Deep House', 'Leftfield']"
+57,4ZZSByixQZeFFUfmrm97S9,Marsmobil,It Doesn't Matter How You Are - Ripperton Instrumental,25 Compost Records - Overture 1 EP,7.45145,121.107,0.738,0.806,0.79,C#,4,0.312,0.923,1,"['Deep House', 'Deep Techno', 'Future Jazz']"
+58,4ZZSByixQZeFFUfmrm97S9,Marsmobil,It Doesn't Matter How You Are - Ripperton Instrumental,25 Compost Records - Overture 1 EP,7.45145,121.107,0.738,0.806,0.79,C#,4,0.312,0.923,1,"['Deep House', 'Deep Techno', 'Future Jazz']"
+59,4ZZSByixQZeFFUfmrm97S9,Marsmobil,It Doesn't Matter How You Are - Ripperton Instrumental,25 Compost Records - Overture 1 EP,7.45145,121.107,0.738,0.806,0.79,C#,4,0.312,0.923,1,"['Deep House', 'Deep Techno', 'Future Jazz']"
+60,5gKA0ljFirc1skazUwnjFk,Ron Deacon,Bring It On,25 Compost Records - Overture 1 EP,6.8882,120.047,0.407,0.719,0.143,C#,4,0.28,0.902,1,"['Deep House', 'Deep Techno', 'Future Jazz']"
+61,5gKA0ljFirc1skazUwnjFk,Ron Deacon,Bring It On,25 Compost Records - Overture 1 EP,6.8882,120.047,0.407,0.719,0.143,C#,4,0.28,0.902,1,"['Deep House', 'Deep Techno', 'Future Jazz']"
+62,5gKA0ljFirc1skazUwnjFk,Ron Deacon,Bring It On,25 Compost Records - Overture 1 EP,6.8882,120.047,0.407,0.719,0.143,C#,4,0.28,0.902,1,"['Deep House', 'Deep Techno', 'Future Jazz']"
+63,0cK5c98oPPZTX1IYn4Hb0i,A Forest Mighty Black,Fresh In My Mind - I:Cube Remix,25 Compost Records - Overture 1 EP,7.290583333333333,111.99,0.831,0.593,0.509,F#,4,0.034,0.92,1,"['Deep House', 'Deep Techno', 'Future Jazz']"
+64,0cK5c98oPPZTX1IYn4Hb0i,A Forest Mighty Black,Fresh In My Mind - I:Cube Remix,25 Compost Records - Overture 1 EP,7.290583333333333,111.99,0.831,0.593,0.509,F#,4,0.034,0.92,1,"['Deep House', 'Deep Techno', 'Future Jazz']"
+65,0cK5c98oPPZTX1IYn4Hb0i,A Forest Mighty Black,Fresh In My Mind - I:Cube Remix,25 Compost Records - Overture 1 EP,7.290583333333333,111.99,0.831,0.593,0.509,F#,4,0.034,0.92,1,"['Deep House', 'Deep Techno', 'Future Jazz']"
+66,02jrjW6mqelPQ1ov5dIShv,Ah! Kosmos,Woods,Beautiful Swamp,3.2846166666666665,121.999,0.821,0.805,0.671,F#,4,0.224,0.774,0,"['Blues Rock', 'Krautrock']"
+67,1mcr1IckvAx3p2Caq9jzqg,Mr Raoul K,Tamale,African Paradigm EP I,8.2818,118.003,0.722,0.805,0.257,G,4,0.0472,0.548,1,"['Dub', 'Downtempo']"
+68,4r8THKAeGSEsAFEfedz7rF,Mr Raoul K,Sene Kela - Mr Raoul K & Laolu Version,Future Sounds Of Jazz Volume 13,7.397433333333334,118.001,0.625,0.727,0.406,F,4,0.18,0.411,0,['Future Jazz']
+69,569gNjph2g07MmjtMm6vKm,Gidge,Huldra - Other Version,Huldra,8.166666666666666,118.015,0.514,0.772,0.103,A#,4,0.148,0.906,0,
+70,42na0NchVKUAXqgzwOcZfd,Kiasmos,Zebra,Zebra,3.7223,119.915,0.668,0.676,0.0949,G,4,0.32,0.303,1,"['Hard Rock', 'Prog Rock']"
+71,4lpKq8RZOH2DLOGDF3uAYd,Cass.,The Diary,Postclub Prism,3.9818166666666666,110.014,0.18,0.521,0.182,A#,4,0.989,0.906,0,"['Ambient', 'Downtempo']"
+72,5Q9y1QLFf5peodTqeQ8Evg,Ametsub,From The Mountain (based on metal beast / l’usine rmx - Upcgriqr),Mbira Lights 1 EP,6.56065,124.018,0.69,0.63,0.552,A#,4,0.189,0.899,1,"['Ambient', 'Downtempo', 'IDM']"
+73,2k5m0nlu8TAY2mGLOcqImO,Grand River,When It All Was Flourishing,Pineapple,10.41935,123.892,0.234,0.35,0.0376,F#,4,0.913,0.918,1,
+74,3scH3LfC2eyoX4zd5sp759,TSHA,Sacred,Sacred,5.788616666666667,123.018,0.629,0.792,0.417,C,4,0.00613,0.847,1,
+75,56v6HRVLPEy380Om6OwgxQ,Rone,Mirapolis - Laurent Garnier Remix,Mirapolis (Laurent Garnier Remix),9.313716666666666,124.006,0.673,0.575,0.48,G#,3,0.126,0.893,1,['Techno']
+76,4JY4ziWfBka6mHjTsJCLTn,Kae Tempest,Perfect Coffee,Let Them Eat Chaos,5.526,92.996,0.532,0.824,0.54,G,4,0.455,0.058,1,['Conscious']
+77,155prHK1sRHKO9aJiO8RFV,Throwing Snow,Subtitles,Loma,5.64285,124.999,0.801,0.596,0.112,C#,4,0.00624,0.825,1,
+78,5q9oDBF0ElKsJsSrs3Z5kd,ELIZA,All Night,A Real Romantic,4.98425,92.022,0.163,0.866,0.577,G#,4,0.0359,0.793,0,"['Neo Soul', 'Rhythm & Blues']"
+79,6Af8C264b3XWFDzV5xknsg,Andi Otto,Taste of Bamboo,Bow Wave,5.918666666666667,178.338,0.717,0.685,0.486,E,4,0.149,0.783,0,"['Downtempo', 'Experimental']"
+80,5OtZ6fidRTpFZu0IzI0RVw,Peter Power,Dansakoni,Afro Damba,6.47865,102.006,0.536,0.824,0.533,G#,4,0.186,0.00282,1,"['African', 'Tribal', 'House']"
+81,3kfd2K9w54Rqwkr6uFhr6Z,Viken Arman,Rosas - Nu Remix,PL004,5.5429,94.009,0.421,0.781,0.159,E,4,0.0495,0.621,0,['Happy Hardcore']
+82,3ZJk5ofeUZIAoEeqncIQfl,JAJA,Elega al Che,Tropical Bird Club,5.04255,93.99,0.279,0.784,0.461,C#,4,0.848,0.923,0,['Downtempo']
+83,2lndMeBFLAfg6cn0etfMjx,Arutani,Trance is Psy,Utopia II,6.87705,100.02,0.493,0.67,0.0781,C,4,0.0191,0.815,0,
+84,4CJtnJh0NhpDyBpCvh0Mff,Shkoon,Napauken Feat. Fruiterama,Zehna,6.2209,105.003,0.656,0.528,0.0962,D,4,0.463,0.905,1,"['Minimal Techno', 'Deep House', 'Tech House']"
+85,0FvMyDF1hBIHqPGEw7CnsO,Andi Otto,Bangalore Whispers,Bangalore Whispers,3.3737,95.017,0.595,0.833,0.343,C,4,0.528,0.0238,1,"['Abstract', 'Indian Classical']"
+86,2l2kCTP91BS8GxBUEJ5q91,Rapossa,Shanti,Shanti,5.3960333333333335,100.995,0.486,0.752,0.434,A,4,0.00582,0.826,1,
+87,4uwwu8ThxoNtYPyAQwEWjP,Jugurtha,Serail - MiRET Remix,Odalisque,7.516383333333334,89.989,0.497,0.721,0.357,B,4,0.0169,0.873,1,['Modern']
+88,45u2Q9YkyETvKnzLu0B3iV,Lemurian,Onpash,Leveldva Chillrave 001,6.206616666666666,196.001,0.563,0.571,0.488,A#,4,0.611,0.722,0,"['Downtempo', 'Deep House']"
+89,3LKtxVRgemcqhluCK4l4a8,Oumou Sangaré,Kamelemba - Pouvoir Magique Remix,Mogoya Remixed,5.348,102.035,0.612,0.786,0.682,G,4,0.039,0.123,1,"['African', 'House', 'Tribal House']"
+90,3LKtxVRgemcqhluCK4l4a8,Oumou Sangaré,Kamelemba - Pouvoir Magique Remix,Mogoya Remixed,5.348,102.035,0.612,0.786,0.682,G,4,0.039,0.123,1,"['African', 'House', 'Tribal House']"
+91,2TztFc1warEs7GdZQ4qBON,Oumou Sangaré,Fadjamou - St Germain Remix,Mogoya Remixed,5.05155,125.986,0.795,0.756,0.724,F#,4,0.0352,0.00277,1,"['African', 'House', 'Tribal House']"
+92,2TztFc1warEs7GdZQ4qBON,Oumou Sangaré,Fadjamou - St Germain Remix,Mogoya Remixed,5.05155,125.986,0.795,0.756,0.724,F#,4,0.0352,0.00277,1,"['African', 'House', 'Tribal House']"
+93,5GA2HHl00A6ASpXpW3Kxdv,Zara McFarlane,East of the River Nile (Alt. Take) - Dub Mix,East of the River Nile,5.959766666666667,105.713,0.646,0.748,0.783,E,4,0.105,0.894,0,"['Dub', 'Roots Reggae']"
+94,72QecT0l6EbGdAf7FRiiI7,M.RUX,Tangled Eye - Ninze Remix,In the Hold,7.54575,98.008,0.591,0.822,0.578,A#,4,0.478,0.848,0,
+95,7sWuEcZgE4RUK3yNfHl8LL,El Búho,Aguas Claras,Camino De Flores,4.682133333333334,97.006,0.489,0.785,0.834,C#,4,0.6,0.883,0,"['Deep House', 'Downtempo', 'Experimental', 'Folk', 'Latin']"
+96,7DeYN8jLlNx8njQTyHUzyp,History of Colour,Cinder,Calidoso,5.8928,99.997,0.535,0.863,0.339,G,4,0.393,0.832,0,"['Deep House', 'Downtempo']"
+97,41JWvOS6vhn2uANnUsKVEG,Oceanvs Orientalis,Tarlabasi - Be Svendsen Remix,Indoor Voyager EP,9.096883333333333,114.001,0.599,0.854,0.216,E,4,0.206,0.861,0,['Deep House']
+98,3vc7vVDMQtcQ2bFMURz7pp,Jacob Groening,Kopru Ortas,Vooloo,6.244433333333333,89.976,0.427,0.697,0.168,A#,4,0.0827,0.0032,1,"['Deep House', 'Tribal']"
+99,3o8EW5nZYcna5KGHNMSx68,Kleintierschaukel,Motomia,Blue Elephant,6.725483333333333,109.976,0.432,0.979,0.455,F,4,0.305,0.9,0,['Psychedelic Rock']
+100,3o8EW5nZYcna5KGHNMSx68,Kleintierschaukel,Motomia,Blue Elephant,6.725483333333333,109.976,0.432,0.979,0.455,F,4,0.305,0.9,0,['Psychedelic Rock']
+101,10glJ8ARN1G9ESFF9s00yk,Xique-Xique,1542,Xaxoeira,5.793333333333333,100.002,0.704,0.775,0.471,B,4,0.46,0.559,0,"['Nu-Disco', 'Downtempo']"
+102,2cRWl6JnwCISmu8PrClxdX,Kerala Dust,Wires,Francesca's Frames,9.9618,118.004,0.414,0.806,0.572,G#,4,0.00105,0.886,0,"['Acid House', 'Deep House', 'Downtempo']"
+103,49ZT5B5j9NhgYOyoYJgd2d,Kleintierschaukel,Motomia - Valentin Stip Remix,Blue Elephant,7.290266666666667,220.034,0.411,0.651,0.274,A#,4,0.217,0.918,0,['Psychedelic Rock']
+104,49ZT5B5j9NhgYOyoYJgd2d,Kleintierschaukel,Motomia - Valentin Stip Remix,Blue Elephant,7.290266666666667,220.034,0.411,0.651,0.274,A#,4,0.217,0.918,0,['Psychedelic Rock']
+105,419NLe5qLMKozi8e3jYGxN,Exz,Azerodois,Saola,4.239483333333333,100.011,0.606,0.836,0.0636,G,4,0.0645,0.86,1,"['Ambient', 'Post-Metal', 'Post-Hardcore', 'Sludge Metal']"
+106,11u1VAhu9I6jgt9pItgAkl,Exz,Vulto,Serra,7.527683333333333,110.987,0.407,0.722,0.0376,E,4,0.395,0.888,0,
+107,1Yu5Zn57CiJ7hUDNVGmjhf,Steve Hauschildt,Alienself,Dissolvi,7.0152,103.986,0.464,0.457,0.11,G,4,0.706,0.956,1,"['Ambient', 'New Age']"
+108,0EV7lkaGPP5G93JiHHgyyZ,Nu Genea,Prelude,"Afrobeat Makers, Vol. 3 (The Tony Allen Experiments)",2.89595,104.999,0.554,0.761,0.979,C#,4,0.589,0.818,1,Not data
+109,7Bzyr2VDVOAIU4o0KpSWnp,Objekt,Theme from Q,Objekt #4,7.337533333333333,123.01,0.795,0.8,0.599,A#,4,0.00388,0.713,0,"['House', 'Breaks', 'Techno']"
+110,3oagsScdGADvNXlyUee5m0,Agnes Obel,Stretch Your Eyes - Ambient Acapella,Stretch Your Eyes (Ambient Acapella),6.1208833333333335,49.917,0.0312,0.121,0.0381,G#,4,0.582,0.033,0,"['Techno', 'Ambient', 'Leftfield']"
+111,4JLHvLj1cHJpopm40v32lY,Landhouse,Robots,Robots In Lilac Spaceships,8.074616666666667,108.017,0.256,0.795,0.336,A,4,0.553,0.914,0,Not data
+112,2IJBy4H2j9LcvwIUQb3RKX,NINZE & OKAXY,Melatonin,Cranes at Night,7.206783333333333,108.002,0.216,0.876,0.177,F#,4,0.65,0.935,0,"['Downtempo', 'Tech House', 'Minimal']"
+113,1t8DAe37WZUVT4UppCAeZm,Kerala Dust,Spiegel,Late Sun,6.9714833333333335,114.989,0.675,0.8,0.577,C#,4,0.0521,0.895,1,"['Deep House', 'Downtempo', 'Acid']"
+114,2YJ5LBrsDGXza8Gak2KBKQ,Landhouse,Back From the Black Forest,Black Forest - Random Collective Records,8.50155,100.031,0.53,0.807,0.666,C#,4,0.216,0.881,1,Not data
+115,1kETMAlYAqu5nNr1c8ld4n,Forest Swords,Panic,Compassion,4.808883333333333,130.016,0.428,0.489,0.0526,C#,4,0.478,0.767,1,"['Experimental', 'Psychedelic', 'Dub', 'Leftfield']"
+116,57p1UwuJ19XMaC7gF9B52h,Mount Kimbie,Blind Night Errand,Crooks & Lovers,3.361666666666667,134.018,0.479,0.782,0.315,G#,4,0.0202,0.868,0,"['Bass Music', 'Ambient', 'Downtempo', 'Experimental', 'Dubstep', 'IDM']"
+117,3d5y51BomOkO2JP6eQbCAO,Shigeto,Detroit Part II,The New Monday,7.4717666666666664,114.007,0.412,0.875,0.272,C#,4,0.13,0.833,1,"['Electro', 'Synth-pop']"
